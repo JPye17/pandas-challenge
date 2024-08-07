@@ -1,5 +1,43 @@
-To receive all points, the written report presents a cohesive written analysis that:
 
-Summarizes the analysis (5 points)
+Summary of the combined school data includes; 
+15 schools with a total combined student count of 39,170 and a combined budget of 24,649,428.
+An Average math score or 79.985 and reading score of 81.878
+With 74.98 of the students passing math and 85.80 students passing reading.
+A combination of students who passed both subjects is 65.17 percent of students.
 
-Draws two correct conclusions or comparisons from the calculations (10 points)
+At first glance of the merged data, you can conclude that schools are reporting a moderate
+passing rate for their students. Although, upon closer inspection we can see that there
+are striking differences that separate a successful school in regards to passing percentage.
+
+Taking this summary all the way to the end of the analysis we can work our way backwards.
+Charters school show a significant success rate over district school. 
+
+Overall passing is 90.43% and 53.67%, respectively.
+Reading passing is 96.59% and 80.8%, respectively.
+Math passing is 93.62% and 66.55%, respectively.
+
+Whereas the average reading and math scores show similar values, in charter versus district.
+Average math score are 83.47 and 76.96 respectively. Average reading score  are 83.90 and 80.97, respectively.
+The above scores and differences represent a striking contrast. Although, the average
+reading and math scores are similar per school. The passing percentage is vastly different.
+That can lead you to conclude that Charter schools have a higher success rate because their
+average score versus their passing scores correlates into a more balanced data set individually.
+Meaning they have a higher quality of students. Whereas District schools have a wider data set,
+meaning the is less balance or more variance in their student scores. 
+
+There are a few other data points that correspond with the above. School size matters.
+Medium (1000-2000) and small (<1000) in student count had high scores and passing percentage.
+Whereas school with over 2000 students report similar scores to district schools, average score but lower passing percentage.
+
+To further analyze. Spending Ranges per school. The highest passing rates and scores per spending range,
+were the schools with (<585) in spend, which was the lowest range. The scores tapered to the wrose the higher the spend
+You can see with this analysis that the higher cost per student the lower the scores and passing percentage were. 
+
+In Summation,
+Charter schools had a lower cost per student, significantly higher passing percentage per student body,
+and a smaller student body. You are getting a quality education with more focus of the student
+at the charter school and the school is utilizing it's resources more efficiently. In comparison, students at 
+a district school lower averages, a higher cost per students, and a larger student body. Leading to the conclusion that
+the education is not as high quality as a Charter school.
+The average scores per schools combined appears to tell a story of equality amongst schools. Although, there are good students
+at districts school, the body at large at charter school is far out performing the district school.
